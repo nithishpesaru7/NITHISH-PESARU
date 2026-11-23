@@ -1,0 +1,6 @@
+{
+  "name": "AI Research Paper Summarizer",
+  "description": "An academic web application that extracts text from research paper PDFs and generates beginner-friendly, structured summaries using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
